@@ -1,0 +1,10 @@
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\PhepTinh\Cal\Cal\bin\Debug\Cal.exe.config
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\PhepTinh\Cal\Cal\bin\Debug\Cal.exe
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\PhepTinh\Cal\Cal\bin\Debug\Cal.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\PhepTinh\Cal\Cal\obj\Debug\Cal.csprojAssemblyReference.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\PhepTinh\Cal\Cal\obj\Debug\Cal.Properties.Resources.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\PhepTinh\Cal\Cal\obj\Debug\Cal.csproj.GenerateResource.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\PhepTinh\Cal\Cal\obj\Debug\Cal.csproj.CoreCompileInputs.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\PhepTinh\Cal\Cal\obj\Debug\Cal.exe
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\PhepTinh\Cal\Cal\obj\Debug\Cal.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\PhepTinh\Cal\Cal\obj\Debug\Cal.frmMain.resources
