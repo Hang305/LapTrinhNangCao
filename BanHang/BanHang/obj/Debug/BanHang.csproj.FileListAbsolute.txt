@@ -1,0 +1,10 @@
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\bin\Debug\BanHang.exe.config
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\bin\Debug\BanHang.exe
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\bin\Debug\BanHang.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.FormMain.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.Properties.Resources.resources
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.csproj.CoreCompileInputs.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.exe
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.csprojAssemblyReference.cache
