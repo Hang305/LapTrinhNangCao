@@ -115,8 +115,7 @@ namespace BanHang
 
             return image;
         }
-
-
+       
 
         public static connectDB Instance
         {

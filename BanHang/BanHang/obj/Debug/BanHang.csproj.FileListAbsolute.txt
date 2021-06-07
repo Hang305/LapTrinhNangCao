@@ -8,3 +8,4 @@ F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHa
 F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.exe
 F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.pdb
 F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.csprojAssemblyReference.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhNangCao\LapTrinhNangCao\BanHang\BanHang\obj\Debug\BanHang.btnRefresh.resources

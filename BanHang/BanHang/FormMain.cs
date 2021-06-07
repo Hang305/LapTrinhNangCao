@@ -82,7 +82,7 @@ namespace BanHang
        
         private byte[] getImage(string masp)
         {
-            return (byte [])Image.Instance.getImage(masp);
+            return (byte [])HinhAnh.Instance.getImage(masp);
         }
         private string getName(string mapsp)
         {
@@ -108,6 +108,13 @@ namespace BanHang
         {
             return SanPham.Instance.select_SanPham(mapsp);
         }
-       
+
+        private void thêmSảnPhẩmToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            btnRefresh addSP = new btnRefresh();
+            this.Hide();
+            addSP.ShowDialog();
+            this.Show();
+        }
     }
 }

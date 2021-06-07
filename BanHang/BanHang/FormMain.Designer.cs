@@ -36,6 +36,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.thoátToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.thêmSảnPhẩmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dataGridViewSP = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -124,7 +125,8 @@
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.thoátToolStripMenuItem});
+            this.thoátToolStripMenuItem,
+            this.thêmSảnPhẩmToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
@@ -138,6 +140,14 @@
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
             this.thoátToolStripMenuItem.Size = new System.Drawing.Size(56, 21);
             this.thoátToolStripMenuItem.Text = "Thoát";
+            // 
+            // thêmSảnPhẩmToolStripMenuItem
+            // 
+            this.thêmSảnPhẩmToolStripMenuItem.Font = new System.Drawing.Font("Lato", 10F, System.Drawing.FontStyle.Bold);
+            this.thêmSảnPhẩmToolStripMenuItem.Name = "thêmSảnPhẩmToolStripMenuItem";
+            this.thêmSảnPhẩmToolStripMenuItem.Size = new System.Drawing.Size(117, 21);
+            this.thêmSảnPhẩmToolStripMenuItem.Text = "Thêm sản phẩm";
+            this.thêmSảnPhẩmToolStripMenuItem.Click += new System.EventHandler(this.thêmSảnPhẩmToolStripMenuItem_Click);
             // 
             // dataGridViewSP
             // 
@@ -348,6 +358,7 @@
         private System.Windows.Forms.Label lbcard;
         private System.Windows.Forms.Label lbGia;
         private System.Windows.Forms.PictureBox pictureBoxSP;
+        private System.Windows.Forms.ToolStripMenuItem thêmSảnPhẩmToolStripMenuItem;
     }
 }
 
