@@ -60,14 +60,14 @@
             // standardToolStripMenuItem1
             // 
             this.standardToolStripMenuItem1.Name = "standardToolStripMenuItem1";
-            this.standardToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.standardToolStripMenuItem1.Size = new System.Drawing.Size(122, 22);
             this.standardToolStripMenuItem1.Text = "Standard";
             this.standardToolStripMenuItem1.Click += new System.EventHandler(this.standardToolStripMenuItem1_Click);
             // 
             // scientificToolStripMenuItem
             // 
             this.scientificToolStripMenuItem.Name = "scientificToolStripMenuItem";
-            this.scientificToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.scientificToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.scientificToolStripMenuItem.Text = "Scientific";
             this.scientificToolStripMenuItem.Click += new System.EventHandler(this.scientificToolStripMenuItem_Click);
             // 
